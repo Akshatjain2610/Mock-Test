@@ -2,3 +2,9 @@
     padding-left: 0px;
     padding-right: 0px;
 }
+.modal-header{
+    background: #A0A0A0;
+}
+.modal-body{
+    background: WhiteSmoke;
+}
